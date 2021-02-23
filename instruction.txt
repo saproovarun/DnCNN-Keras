@@ -1,0 +1,2 @@
+1). Unzip model.zip file in the current directory.
+2). Please specify path as command line arguments ex. python3 final_pipeline.py YOUR_PATH
